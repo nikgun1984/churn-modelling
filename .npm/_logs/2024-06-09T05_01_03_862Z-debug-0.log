@@ -1,0 +1,12 @@
+0 verbose cli /opt/conda/bin/node /opt/conda/bin/npm
+1 info using npm@10.7.0
+2 info using node@v18.20.2
+3 silly config:load:file:/opt/conda/lib/node_modules/npm/npmrc
+4 silly config:load:file:/home/sagemaker-user/.npmrc
+5 silly config:load:file:/opt/conda/etc/npmrc
+6 verbose title npm prefix
+7 verbose argv "prefix" "--global"
+8 verbose logfile logs-max:10 dir:/home/sagemaker-user/.npm/_logs/2024-06-09T05_01_03_862Z-
+9 verbose logfile /home/sagemaker-user/.npm/_logs/2024-06-09T05_01_03_862Z-debug-0.log
+10 verbose exit 0
+11 info ok

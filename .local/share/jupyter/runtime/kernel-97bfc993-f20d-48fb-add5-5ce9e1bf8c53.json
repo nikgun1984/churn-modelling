@@ -1,0 +1,13 @@
+{
+  "shell_port": 41513,
+  "iopub_port": 57107,
+  "stdin_port": 56017,
+  "control_port": 47171,
+  "hb_port": 34959,
+  "ip": "127.0.0.1",
+  "key": "db62aaa2-448dea0617bb4f0d87b745cb",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/churn-prediction-project.ipynb"
+}
